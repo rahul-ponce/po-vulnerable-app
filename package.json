@@ -1,0 +1,14 @@
+{
+  "name": "po-vulnerable-app",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "node-sqlite-app",
+    "dummy-test-waf",
+    "dummy-service"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/ProtectOnce/po-vulnerable-app#readme"
+}
